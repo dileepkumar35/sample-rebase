@@ -7,3 +7,6 @@ on main branch
 
 HTML
 CSS JS
+
+clerk
+Angular
