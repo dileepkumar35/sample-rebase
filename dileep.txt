@@ -1,13 +1,9 @@
 dileep
 deekshith
 
-on feature branch
-
-//merged from main branch
-a b c d e f g h
-1 2 3 4 5 6 7 8 9
 
 on main branch
 
-Done mergin to feature branch.
-Now learning on rebase CMDs.
+
+HTML
+CSS JS
