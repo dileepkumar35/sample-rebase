@@ -7,3 +7,5 @@ Done mergin to feature branch.
 Now learning on rebase CMDs.
 a b c d e f g h 
 1 2 3 4 5 6 7 
+
+on feature branch
