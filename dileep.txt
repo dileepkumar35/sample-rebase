@@ -10,3 +10,6 @@ CSS JS
 
 clerk
 Angular
+
+Reactjs
+Tsx
